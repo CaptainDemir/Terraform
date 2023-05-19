@@ -1,6 +1,0 @@
-vpc_cidr="10.0.0.0/16"
-env_prefix="Devops"
-avability_zone="us-east-1a"
-subnet_cidr="10.0.1.0/24"
-instance_type="t2.micro"
-public_key_location="/Users/captain/.ssh/id_rsa.pub"
